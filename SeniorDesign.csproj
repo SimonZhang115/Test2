@@ -79,10 +79,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Driving_safety_Onclick.cs" />
-    <Compile Include="Assets\Scripts\MainMenuManager.cs" />
-    <Compile Include="Assets\Scripts\PanelInstance.cs" />
-    <Compile Include="Assets\Scripts\PanelManager.cs" />
+    <Compile Include="Assets\Scripts\ImageJumpBefore.cs" />
+    <Compile Include="Assets\Scripts\ImageJumpNext.cs" />
+    <Compile Include="Assets\Scripts\IntroBtnOnclick.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
